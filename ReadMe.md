@@ -1,6 +1,6 @@
 # Swagger Document Automation in Python
 
-This is a python based utility which will help stakeholders such as technical writers, BA, developers to create a software document by using excel or google sheet. 
+This is a python based utility which will help stakeholders such as technical writers, BA, developers to create a Swagger document by using excel or google sheet. 
 This utility saves the stakeholder time by creating multiple yaml doc files from the provided inputs(excel/google sheet).
  
  
